@@ -20,7 +20,7 @@ https://boulderdecisions.com/
 https://boulderdecisions.com/how-to-rank-in-ai-search/
 
 ### SEO Growth Strategies
-https://boulderdecisions.com/
+https://boulderdecisions.com/Seo/
 
 ## Why Follow This Repository?
 We regularly share:
@@ -32,4 +32,4 @@ We regularly share:
 
 ## Connect With Us
 Website:
-https://boulderdecisions.com/
+https://boulderdecisions.com/contact-us/
